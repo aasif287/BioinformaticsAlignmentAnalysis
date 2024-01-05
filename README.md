@@ -6,8 +6,7 @@ This Python script, `NW_GE.py`, implements the Needleman-Wunsch algorithm to per
 - **Mismatch Score:** -1
 - **Gap Open:** -2
 - **Gap Extend (for extra credit):** -0.5
-- 
-
+  
 ## Notes
 
 - **Alignability Assumption:** This implementation assumes that the input sequences are alignable.
